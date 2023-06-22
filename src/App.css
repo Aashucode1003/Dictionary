@@ -63,8 +63,8 @@
   height: 40px;
 }
 @media screen and (max-width: 950px) {
-  .dictionary-container .top {
-    padding: 80px;
+  .dictionary-container {
+    padding: 80px 80px 80px 80px;
   }
   .search-input input {
     height: 50%;
