@@ -64,7 +64,7 @@
 }
 @media screen and (max-width: 950px) {
   .dictionary-container {
-    padding:80px;
+    padding: 80px;
   }
   .search-input input {
     height: 50%;
@@ -74,5 +74,10 @@
   }
   .playbtn img {
     height: 30px;
+  }
+}
+@media screen and (max-width: 950px) {
+  .dictionary-container {
+    padding: 150px;
   }
 }
