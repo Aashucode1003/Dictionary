@@ -80,4 +80,13 @@
   .dictionary-container {
     padding: 150px 150px 150px 150px;
   }
+  .search-input input {
+    height: 40%;
+  }
+  .playbtn {
+    margin-left: 200px;
+  }
+  .playbtn img {
+    height: 30px;
+  }
 }
