@@ -76,9 +76,9 @@
     height: 30px;
   }
 }
-@media screen and (max-width: 600px) {
+@media (max-width: 468px) {
   .dictionary-container {
-    padding: 150px 150px 150px 150px;
+    padding: 30%;
   }
   .search-input input {
     height: 40%;
