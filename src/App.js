@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 
 function App() {
-  const [text, setText] = useState("");
+  const [text, setText] = useState("hello");
   const [searchResult, SetSearchResult] = useState([]);
   const [theme, setTheme] = useState("light");
   const toggleTheme = () => {
