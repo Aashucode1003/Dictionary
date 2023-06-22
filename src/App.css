@@ -78,7 +78,7 @@
 }
 @media (max-width: 468px) {
   .dictionary-container {
-    padding: 30%;
+    padding: 100px;
   }
   .search-input input {
     height: 40%;
