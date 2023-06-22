@@ -62,9 +62,9 @@
 .playbtn img {
   height: 40px;
 }
-@media (max-width: 950px) {
+@media screen and (max-width: 950px) {
   .dictionary-container {
-    padding: 80px;
+    padding: 100px;
   }
   .search-input input {
     height: 50%;
@@ -76,9 +76,9 @@
     height: 30px;
   }
 }
-@media (max-width: 468px) {
+@media screen and(max-width: 468px) {
   .dictionary-container {
-    padding: 100px;
+    padding: 150px;
   }
   .search-input input {
     height: 40%;
